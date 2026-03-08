@@ -1,0 +1,8 @@
+.env
+vault.key
+secrets.db
+audit.db
+venv/
+__pycache__/
+*.pyc
+demo_repo/

@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+pytesseract
+mss
+numpy
+streamlit
+python-dotenv
+onepassword-sdk
+Pillow
