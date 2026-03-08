@@ -1,2 +1,2 @@
 #!/bin/sh
-python main.pygit update-index --chmod=+x .git/hooks/pre-push
+python main.py
