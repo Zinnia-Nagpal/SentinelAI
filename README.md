@@ -14,8 +14,8 @@ SentinelAI is a pre-push git hook that scans staged code for exposed secrets bef
 
 ## Setup
 ```cmd
-git clone https://github.com/Zinnia-Nagpal/ai-security-battle
-cd ai-security-battle
+git clone https://github.com/Zinnia-Nagpal/SentinelAI
+cd SentinelAI
 pip install -r requirements.txt
 copy hooks\pre-push .git\hooks\pre-push
 ```
@@ -55,3 +55,4 @@ Python, SQLite, Fernet AES encryption, Streamlit, Slack webhooks, Shannon entrop
 - Real-time screen monitoring
 
 ## Built solo at cmd-f 2026 by Zinnia Nagpal
+
